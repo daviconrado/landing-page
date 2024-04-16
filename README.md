@@ -4,10 +4,10 @@
 - 🌱 No momento desenvolvendo habilidades em front-end (HTML, CSS e JS)
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daviconrado&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daviconrado&theme=dark&card_width=300" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daviconrado&layout=normal&langs_count=8&card_width=310&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daviconrado&layout=normal&langs_count=8&card_width=300&theme=dark" />
 </a>
 
 ##
